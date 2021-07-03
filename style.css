@@ -79,4 +79,7 @@ a{
 .last{
     border: 30px double #ff2e8f;
 }
+.lot{
+    border: 30px dotted crimson;
+}
 
