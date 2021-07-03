@@ -1,0 +1,82 @@
+.box1{
+    background-color: aqua;
+    height: 250px;
+    width: 50%;
+    border: 30px inset rgb(255, 1, 1);
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 30px 50px 40px;
+}
+#blog{
+    color: rgb(248, 0, 62);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+.name{
+    color: red;
+}
+p{
+    color: rgb(40, 0, 184);
+    text-align: justify;
+}
+.short{
+    color: rgb(252, 216, 15);
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+a{
+    color: rgb(255, 123, 0);
+    text-decoration: none;
+}
+#none{
+    color: olive;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bot{
+    border: 30px inset rgb(180, 150, 31);
+    background-color: red;
+}
+.top{
+    border: 30px dashed rgb(74, 219, 30);
+    background-color: rgb(95, 16, 53);
+}
+.nop{
+    border: 30px dotted rgb(20, 11, 145);
+    background-color: mistyrose;
+}
+.bon{
+    border: 30px solid rgb(0, 0, 0);
+    background-color: mediumvioletred;
+}
+.none{
+    text-align: right;
+    color: rgb(183, 201, 20);
+    background-color: maroon;
+    padding-right: 10px;
+}
+.nam{
+    text-align: center;
+    color: lightslategray;
+    background-color: lime;
+}
+.time{
+    color: white;
+}
+.type{
+    color: white;
+}
+.sin{
+    color: rgb(124, 230, 124);
+}
+.list{
+    border: 30px ridge rgb(255, 157, 9);
+}
+.last{
+    border: 30px double #ff2e8f;
+}
+
